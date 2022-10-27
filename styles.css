@@ -1,0 +1,21 @@
+p {
+    color: black;
+    background-color: beige;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 150px;
+}
+
+h1{
+    font-size: 1.7rem;
+}
