@@ -1,5 +1,5 @@
 p {
-    color: black;
+    color: purple;
     background-color: beige;
 }
 
@@ -16,6 +16,10 @@ img {
     width: 150px;
 }
 
-h1{
+h1 {
     font-size: 1.7rem;
+}
+
+body {
+    background: rgb(36, 252, 249);
 }
